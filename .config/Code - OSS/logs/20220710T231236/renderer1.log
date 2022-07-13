@@ -1,0 +1,4 @@
+[2022-07-10 23:12:49.657] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/etc/lightdm/slick-greeter.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/lightdm/slick-greeter.conf') file:///etc/lightdm/slick-greeter.conf
+[2022-07-10 23:12:54.418] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Command failed: cd "/etc/lightdm/lightdm.conf.d"; "/usr/bin/pkexec" --disable-internal-agent /bin/bash -c "echo SUDOPROMPT; \"/usr/lib/electron18/bin/code-oss\" --file-write \"/home/guilherme/.config/Code - OSS/code-elevated-Or1oOFw5\" \"/etc/lightdm/slick-greeter.conf\""
+/bin/bash: line 1: /usr/lib/electron18/bin/code-oss: No such file or directory
+ file:///etc/lightdm/slick-greeter.conf

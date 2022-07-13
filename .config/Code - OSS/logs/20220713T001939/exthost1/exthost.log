@@ -1,0 +1,63 @@
+[2022-07-13 00:19:44.670] [exthost] [info] Extension host with pid 6115 started
+[2022-07-13 00:19:44.908] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-13 00:19:44.933] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-07-13 00:19:44.945] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-13 00:19:45.024] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-13 00:19:45.057] [exthost] [info] Eager extensions activated
+[2022-07-13 00:19:45.059] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-13 00:19:45.097] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-13 00:20:20.812] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-07-13 00:20:59.831] [exthost] [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-13 00:22:05.345] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-13 00:22:05.362] [exthost] [info] Extension host with pid 6115 exiting with code 0
+[2022-07-13 00:22:09.771] [exthost] [info] Extension host with pid 9752 started
+[2022-07-13 00:22:09.771] [exthost] [info] Skipping acquiring lock for /home/guilherme/.config/Code - OSS/User/workspaceStorage/ece27639467319218d02b30514474a5c.
+[2022-07-13 00:22:09.985] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-13 00:22:09.991] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-07-13 00:22:09.996] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-13 00:22:10.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-13 00:22:10.088] [exthost] [info] Eager extensions activated
+[2022-07-13 00:22:10.107] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-13 00:22:10.123] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-13 00:22:10.658] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-07-13 00:22:10.712] [exthost] [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-13 00:22:40.312] [exthost] [info] ExtensionService#_doActivateExtension matklad.rust-analyzer, startup: false, activationEvent: 'onLanguage:rust'
+[2022-07-13 00:22:46.844] [exthost] [error] Activating extension matklad.rust-analyzer failed due to an error:
+[2022-07-13 00:22:46.845] [exthost] [error] Error: bootstrap error. See the logs in "OUTPUT > Rust Analyzer Client" (should open automatically). To enable verbose logs use { "rust-analyzer.trace.extension": true }
+	at /home/guilherme/.vscode-oss/extensions/matklad.rust-analyzer-0.2.853/out/main.js:108:4397
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async O0 (/home/guilherme/.vscode-oss/extensions/matklad.rust-analyzer-0.2.853/out/main.js:108:3977)
+	at async lC (/home/guilherme/.vscode-oss/extensions/matklad.rust-analyzer-0.2.853/out/main.js:108:3808)
+	at async b._activate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:85:8180)
+	at async b._waitForDepsThenActivate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:85:8122)
+	at async b._initialize (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:85:7486)
+[2022-07-13 00:22:59.707] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-13 00:22:59.728] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-13 00:22:59.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-13 00:38:42.016] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-13 00:38:42.074] [exthost] [info] Extension host with pid 9752 exiting with code 0
+[2022-07-13 00:38:46.354] [exthost] [info] Extension host with pid 30576 started
+[2022-07-13 00:38:46.354] [exthost] [info] Skipping acquiring lock for /home/guilherme/.config/Code - OSS/User/workspaceStorage/08d48b13b10d094d8a4deffe214fb8fc.
+[2022-07-13 00:38:46.642] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-13 00:38:46.648] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-07-13 00:38:46.653] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-13 00:38:46.706] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-13 00:38:46.720] [exthost] [info] Eager extensions activated
+[2022-07-13 00:38:46.948] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-13 00:38:46.969] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-13 00:38:47.093] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-07-13 00:38:47.226] [exthost] [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-13 00:38:47.281] [exthost] [info] ExtensionService#_doActivateExtension serayuzgur.crates, startup: false, activationEvent: 'workspaceContains:Cargo.toml'
+[2022-07-13 00:38:48.796] [exthost] [info] ExtensionService#_doActivateExtension matklad.rust-analyzer, startup: false, activationEvent: 'onLanguage:rust'
+[2022-07-13 00:38:49.202] [exthost] [error] Activating extension matklad.rust-analyzer failed due to an error:
+[2022-07-13 00:38:49.202] [exthost] [error] Error: bootstrap error. See the logs in "OUTPUT > Rust Analyzer Client" (should open automatically). To enable verbose logs use { "rust-analyzer.trace.extension": true }
+	at /home/guilherme/.vscode-oss/extensions/matklad.rust-analyzer-0.2.853/out/main.js:108:4397
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async O0 (/home/guilherme/.vscode-oss/extensions/matklad.rust-analyzer-0.2.853/out/main.js:108:3977)
+	at async lC (/home/guilherme/.vscode-oss/extensions/matklad.rust-analyzer-0.2.853/out/main.js:108:3808)
+	at async b._activate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:85:8180)
+	at async b._waitForDepsThenActivate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:85:8122)
+	at async b._initialize (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:85:7486)
+[2022-07-13 00:39:07.211] [exthost] [info] ExtensionService#_doActivateExtension bungcip.better-toml, startup: false, activationEvent: 'onLanguage:toml'
+[2022-07-13 00:53:07.158] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-13 00:53:07.178] [exthost] [info] Extension host with pid 30576 exiting with code 0

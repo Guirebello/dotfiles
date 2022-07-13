@@ -1,0 +1,33 @@
+[2022-07-13 00:19:44.970] [sharedprocess] [info] Starting worker process with pid 6221 (type: fileWatcher, window: 1).
+[2022-07-13 00:20:20.228] [sharedprocess] [info] Getting Manifest... matklad.rust-analyzer
+[2022-07-13 00:20:21.158] [sharedprocess] [info] Installing extension: matklad.rust-analyzer
+[2022-07-13 00:20:24.062] [sharedprocess] [info] Downloaded extension: matklad.rust-analyzer /home/guilherme/.config/Code - OSS/CachedExtensionVSIXs/matklad.rust-analyzer-0.2.853
+[2022-07-13 00:20:24.338] [sharedprocess] [info] Extracted extension to /home/guilherme/.vscode-oss/extensions/.395d2c57-ea9e-4b50-a8c6-a923c3339f93: matklad.rust-analyzer
+[2022-07-13 00:20:24.354] [sharedprocess] [info] Renamed to /home/guilherme/.vscode-oss/extensions/matklad.rust-analyzer-0.2.853
+[2022-07-13 00:20:24.358] [sharedprocess] [info] Extracting completed. matklad.rust-analyzer
+[2022-07-13 00:20:24.366] [sharedprocess] [info] Extension installed successfully: matklad.rust-analyzer
+[2022-07-13 00:20:56.996] [sharedprocess] [info] Getting Manifest... vadimcn.vscode-lldb
+[2022-07-13 00:20:57.268] [sharedprocess] [info] Installing extension: vadimcn.vscode-lldb
+[2022-07-13 00:20:59.342] [sharedprocess] [info] Downloaded extension: vadimcn.vscode-lldb /home/guilherme/.config/Code - OSS/CachedExtensionVSIXs/vadimcn.vscode-lldb-1.7.0
+[2022-07-13 00:20:59.416] [sharedprocess] [info] Extracted extension to /home/guilherme/.vscode-oss/extensions/.3cea929a-10c1-47ef-97c7-6a3473f00c65: vadimcn.vscode-lldb
+[2022-07-13 00:20:59.429] [sharedprocess] [info] Renamed to /home/guilherme/.vscode-oss/extensions/vadimcn.vscode-lldb-1.7.0
+[2022-07-13 00:20:59.432] [sharedprocess] [info] Extracting completed. vadimcn.vscode-lldb
+[2022-07-13 00:20:59.441] [sharedprocess] [info] Extension installed successfully: vadimcn.vscode-lldb
+[2022-07-13 00:21:22.793] [sharedprocess] [info] Getting Manifest... bungcip.better-toml
+[2022-07-13 00:21:23.072] [sharedprocess] [info] Installing extension: bungcip.better-toml
+[2022-07-13 00:21:25.695] [sharedprocess] [info] Downloaded extension: bungcip.better-toml /home/guilherme/.config/Code - OSS/CachedExtensionVSIXs/bungcip.better-toml-0.3.2
+[2022-07-13 00:21:26.147] [sharedprocess] [info] Extracted extension to /home/guilherme/.vscode-oss/extensions/.eadf0459-0b96-4481-932d-55245855392c: bungcip.better-toml
+[2022-07-13 00:21:26.161] [sharedprocess] [info] Renamed to /home/guilherme/.vscode-oss/extensions/bungcip.better-toml-0.3.2
+[2022-07-13 00:21:26.165] [sharedprocess] [info] Extracting completed. bungcip.better-toml
+[2022-07-13 00:21:26.166] [sharedprocess] [info] Extension installed successfully: bungcip.better-toml
+[2022-07-13 00:21:49.994] [sharedprocess] [info] Getting Manifest... serayuzgur.crates
+[2022-07-13 00:21:50.221] [sharedprocess] [info] Installing extension: serayuzgur.crates
+[2022-07-13 00:21:52.803] [sharedprocess] [info] Downloaded extension: serayuzgur.crates /home/guilherme/.config/Code - OSS/CachedExtensionVSIXs/serayuzgur.crates-0.5.10
+[2022-07-13 00:21:52.894] [sharedprocess] [info] Extracted extension to /home/guilherme/.vscode-oss/extensions/.13fbca06-9e2b-4521-b434-5c87db1d53b7: serayuzgur.crates
+[2022-07-13 00:21:52.897] [sharedprocess] [info] Renamed to /home/guilherme/.vscode-oss/extensions/serayuzgur.crates-0.5.10
+[2022-07-13 00:21:52.900] [sharedprocess] [info] Extracting completed. serayuzgur.crates
+[2022-07-13 00:21:52.902] [sharedprocess] [info] Extension installed successfully: serayuzgur.crates
+[2022-07-13 00:22:05.411] [sharedprocess] [info] Worker process with pid 6221 terminated normally (type: fileWatcher, window: 1).
+[2022-07-13 00:22:07.876] [sharedprocess] [info] Starting worker process with pid 9751 (type: fileWatcher, window: 1).
+[2022-07-13 00:38:42.132] [sharedprocess] [info] Worker process with pid 9751 terminated normally (type: fileWatcher, window: 1).
+[2022-07-13 00:38:44.617] [sharedprocess] [info] Starting worker process with pid 30575 (type: fileWatcher, window: 1).

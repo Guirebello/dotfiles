@@ -1,0 +1,18 @@
+[2022-07-10 22:58:34.918] [sharedprocess] [info] Starting worker process with pid 130015 (type: fileWatcher, window: 1).
+[2022-07-10 22:59:02.761] [sharedprocess] [info] Getting Manifest... proxzima.sweetdracula
+[2022-07-10 22:59:03.130] [sharedprocess] [info] Installing extension: proxzima.sweetdracula
+[2022-07-10 22:59:06.955] [sharedprocess] [info] Downloaded extension: proxzima.sweetdracula /home/guilherme/.config/Code - OSS/CachedExtensionVSIXs/proxzima.sweetdracula-1.0.8
+[2022-07-10 22:59:07.135] [sharedprocess] [info] Extracted extension to /home/guilherme/.vscode-oss/extensions/.34101b8d-3c96-4105-8090-6cadeb0240f9: proxzima.sweetdracula
+[2022-07-10 22:59:07.150] [sharedprocess] [info] Renamed to /home/guilherme/.vscode-oss/extensions/proxzima.sweetdracula-1.0.8
+[2022-07-10 22:59:07.153] [sharedprocess] [info] Extracting completed. proxzima.sweetdracula
+[2022-07-10 22:59:07.155] [sharedprocess] [info] Extension installed successfully: proxzima.sweetdracula
+[2022-07-10 22:59:15.470] [sharedprocess] [info] Uninstalling extension: proxzima.sweetdracula@1.0.8
+[2022-07-10 22:59:16.091] [sharedprocess] [info] Detected extension removed from another source proxzima.sweetdracula
+[2022-07-10 22:59:16.099] [sharedprocess] [info] Successfully uninstalled extension: proxzima.sweetdracula@1.0.8
+[2022-07-10 22:59:18.196] [sharedprocess] [info] Getting Manifest... dracula-theme.theme-dracula
+[2022-07-10 22:59:18.467] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2022-07-10 22:59:20.703] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula /home/guilherme/.config/Code - OSS/CachedExtensionVSIXs/dracula-theme.theme-dracula-2.24.2
+[2022-07-10 22:59:20.789] [sharedprocess] [info] Extracted extension to /home/guilherme/.vscode-oss/extensions/.4d2e6279-e03b-4716-a857-d552565e8c1c: dracula-theme.theme-dracula
+[2022-07-10 22:59:20.800] [sharedprocess] [info] Renamed to /home/guilherme/.vscode-oss/extensions/dracula-theme.theme-dracula-2.24.2
+[2022-07-10 22:59:20.802] [sharedprocess] [info] Extracting completed. dracula-theme.theme-dracula
+[2022-07-10 22:59:20.812] [sharedprocess] [info] Extension installed successfully: dracula-theme.theme-dracula
